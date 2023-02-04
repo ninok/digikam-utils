@@ -3,7 +3,7 @@
 The below scripts access the SQlite database of Digikam.
 They should also work with other database engines with small adoptions.
 
-## duplicates.py
+## move_duplicates.py
 
 Finds exact duplicates in Digikams database, i.e. images with the same unique hash.
 Allows moving the duplicates out of the album into a different folder and removes
